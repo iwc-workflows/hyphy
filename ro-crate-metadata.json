@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-03-12T22:38:10.333020",
+            "datePublished": "2026-07-04T13:30:12.180877",
             "hasPart": [
                 {
                     "@id": "capheine-core-and-compare.ga"
@@ -58,16 +58,16 @@
             },
             "mentions": [
                 {
-                    "@id": "#test_hyphy-core_1"
-                },
-                {
-                    "@id": "#test_hyphy-preprocessing_1"
+                    "@id": "#test_capheine-core-and-compare_1"
                 },
                 {
                     "@id": "#test_hyphy-compare_1"
                 },
                 {
-                    "@id": "#test_capheine-core-and-compare_1"
+                    "@id": "#test_hyphy-preprocessing_1"
+                },
+                {
+                    "@id": "#test_hyphy-core_1"
                 }
             ],
             "name": "hyphy/capheine-core-and-compare"
@@ -105,7 +105,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/hyphy",
-            "version": "0.1"
+            "version": "0.2"
         },
         {
             "@id": "#galaxy",
@@ -181,7 +181,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.40"
+            "engineVersion": ">=0.75.44"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
@@ -214,7 +214,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/hyphy",
-            "version": "0.1"
+            "version": "0.2"
         },
         {
             "@id": "#test_hyphy-core_1",
@@ -251,7 +251,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.40"
+            "engineVersion": ">=0.75.44"
         },
         {
             "@id": "hyphy-compare.ga",
@@ -276,7 +276,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/hyphy",
-            "version": "0.1"
+            "version": "0.2"
         },
         {
             "@id": "#test_hyphy-compare_1",
@@ -313,7 +313,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.40"
+            "engineVersion": ">=0.75.44"
         },
         {
             "@id": "hyphy-preprocessing.ga",
@@ -338,7 +338,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/hyphy",
-            "version": "0.1"
+            "version": "0.2"
         },
         {
             "@id": "#test_hyphy-preprocessing_1",
@@ -375,7 +375,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.40"
+            "engineVersion": ">=0.75.44"
         }
     ]
 }
